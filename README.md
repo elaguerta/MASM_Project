@@ -1,5 +1,5 @@
 # MASM_Project
-* Written by Elaine Laguerta*  
+*Written by Elaine Laguerta*  
 *Project designed by Paul Paulson, Dr. Ramesh Rajagopalan, and Stephen Redfield, Oregon State University*
 
 This was submitted as the final project for Computer Architecture and Assembly Language (CS271) at Oregon State University.
